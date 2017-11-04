@@ -156,3 +156,6 @@ https://www.hsph.harvard.edu/obesity-prevention-source/obesity-prevention/health
 
  
 
+Link to the video : 
+
+https://drive.google.com/a/scu.edu/file/d/1CbKO54XsW9kxAItGbg7ThK1m8q10d1dQ/view?usp=sharing
