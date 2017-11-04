@@ -33,10 +33,14 @@ Disadvantages Dashboards_visualization-
 Tableau link - https://public.tableau.com/profile/neha.goushal#!/vizhome/Final_251/FinalDB?publish=yes
 
 ### Scope of improvement-
-
+- I can try to show a relationship in the number of records lost with the decrease in the stock price.
+- I can try to show the rate change of security breaches over the years to identify a trend whether its increasing or decreasing 
+- I can check each entity individually to see if there is a drop in price every time a security breach takes place.
+- I can check if there is a pattern in particular type of organisations like tech or non-tech. Which ones are affected more? 
+- I can analyse how long does the impact stay on the stock price for various entities. If we can identify a trend for this, it can be predicted that for a particular amount of security breach in a particular entity how long could it possibly take for an entity to cover up based on its historical experience.
 
 ## Conclusion-
-The security breaches 
+The security breaches might have an effect at the moment of the breach but when we look at the bigger picture, there is no reflection on the stock price.
 
 ## References-
 http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
