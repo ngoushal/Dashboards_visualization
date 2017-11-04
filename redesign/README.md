@@ -74,7 +74,7 @@ The claim is formed only on the basis of obesity rate in US. If we consider the 
 ## Intermediate versions:
 
 ## Final visualization:
-
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Finalversion.png)
 
 ## Actions/Corrective measures:
 ### Government health organizations:
