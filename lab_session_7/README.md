@@ -15,9 +15,10 @@ https://docs.google.com/spreadsheets/d/1Je-YUdnhjQJO_13r8iTeRxpU2pBKuV6RVRHoYCgi
 The financial markets do not punish security breaches.
 
 ## Warrant-
-Data for 252 companies
+The stock price of a company reflect its financial state in the global market. 
 
 ## Qualification-
+Data for 252 companies
 
 ## Critique on Lab-3
 In the above chart, I have picked up one of the web companies (YAHOO) that had a huge data breach and then analysed its stock price over those years.
@@ -35,7 +36,7 @@ Tableau link - https://public.tableau.com/profile/neha.goushal#!/vizhome/Final_2
 
 
 ## Conclusion-
-
+The security breaches 
 
 ## References-
 http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
