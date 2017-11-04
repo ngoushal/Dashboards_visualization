@@ -16,11 +16,11 @@ To redesign and develop a claim for the existing data visualization on adult obe
 
 ## Critique on the original Visualization:
 
--Firstly, the map just shows the rate of obesity in various states and does not tell what can be done to prevent it.
--Secondly, It also shows the trend over the years in each state but there is no identified pattern in any of the states.
--The visualization does not consider the reasons why the obesity rate is high in few states as compared to the others.
--It does not even tell us the distribution of obesity by age groups or income levels or gender.
--This visualization is just a representation of the factual data leading to no conclusion or claim.
+- Firstly, the map just shows the rate of obesity in various states and does not tell what can be done to prevent it.
+- Secondly, It also shows the trend over the years in each state but there is no identified pattern in any of the states.
+- The visualization does not consider the reasons why the obesity rate is high in few states as compared to the others.
+- It does not even tell us the distribution of obesity by age groups or income levels or gender.
+- This visualization is just a representation of the factual data leading to no conclusion or claim.
 
 ## Scope of improvement:
 If the visualization had identified a pattern over the years, maybe a reason could have been identified that is leading to obesity and then the health institutions can take measures in that direction.
