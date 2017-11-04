@@ -78,8 +78,18 @@ The claim is formed only on the basis of obesity rate in US. If we consider the 
 ### - Version1
 ![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version1.png)
 
+This shows the change in average total obese rate over the years. This is calculated by finding the difference in current year value and previous year value. This helps us to know has there been an increase or decrease in the rate over the years and if yes, then by how much. 
+
+The overall trend shows that obesity rate has been increasing over the years in United States. Even though its increasing overall, the amount by which it is increasing is reducing each year which means that people are taking precautions. 
+
+Of all the years, the maximum increase (.7%) was in the year of 2013, when 38 states had an increasing obesity rate. 2015 had the least change in percent which was (.1%). This shows that people are becoming aware of the problem and improving their eating habits. Also, 23 states had a decreasing rate of obesity in 2015 as compared to 13 states in 2013.
+
+
+
 ### - Version2
 ![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version2.png)
+
+
 
 ### - Version3
 ![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version3.png)
