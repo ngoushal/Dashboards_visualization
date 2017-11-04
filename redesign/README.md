@@ -2,7 +2,7 @@
 
 ## Project Statement:
 
-According to the most recent data, adult obesity rates now exceed 35 percent in five states, 30 percent in 25 states, and 25 percent in 46 states. West Virginia and Mississipi have the highest adult obesity rate with the highest number of diabetic patients and Colorado has the lowest obesity rate with least number of diabetic patients.
+United States has the highest number of obese people in the world. An adult who has a BMI between 25 and 29.9 is considered overweight. An adult who has a BMI of 30 or higher is considered obese. According to the most recent data, adult obesity rates now exceed 35 percent in five states, 30 percent in 25 states, and 25 percent in 46 states. West Virginia and Mississipi have the highest adult obesity rate with the highest number of diabetic patients and Colorado has the lowest obesity rate with least number of diabetic patients.
 The adult obesity rate decreased in Kansas between 2015 and 2016, increased in Colorado, Minnesota, Washington, and West Virginia, and remained stable in the rest of states. This supports trends that have shown overall leveling off of obesity rates in recent years.
 
 ## Motivation:
@@ -89,19 +89,37 @@ Of all the years, the maximum increase (.7%) was in the year of 2013, when 38 st
 ### - Version2
 ![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version2.png)
 
+This chart shows the obesity rate by gender. It gives a picture that males have a higher obesity rate as compared to females. Th difference is not significant but males are always above the females.
 
 
 ### - Version3
 ![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version3.png)
 
+This graph shows that the people aged between 18-35 are less obese than the people of age 35 and above.
+Also, it shows that the obesity rate in both the age groups is increasing significantly.
+
+The number of obese older persons has markedly increased because of both an increase in the total number of older persons and in the percentage of the older population that is obese. An important determinant of body-fat mass is the relationship between energy intake and expenditure. The energy intake i smore compared to the expenditure at an older age. The amount of physical activity a person does reduces after an age.
+
 ### - Version4
 ![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version4.png)
+
+This chart shows that obesity rates tended to increase with decreased income. It has been found that individuals who live in impoverished regions have poor access to fresh food. Poverty-dense areas are oftentimes called “food deserts,” implying diminished access to fresh food. The healthy food is not affordable for the low income category people. Since junk food is easily accessible and cheap, they tend to have more junk.
 
 ### - Version5
 ![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version5.png)
 
+This chart shows that educated people are less obese.
+This directly comes from the fact that educated people are more aware of the consequences of obesity and they keep a control on their dieting habits. They earn more from the people who are less educated and hence they have better access to healthy food. 
+
 ## Final visualization:
 ![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Finalversion.png)
+
+The map with orange shades shows the distribution of obesity rate in the United States over the years. It is the average of obesity rate for the years 2011-2015. The map with shades of blue shows the distribution of percentage of people with diabetes in the United States over the same period. 
+
+The region where the obesity rate is high is the region which has the maximum number of diabetic people. The southern part of US is the most obese and most exposed to the risk of diabetes. As we move towards the western side, the obesity rate decreases and so does the diabetic rate.
+
+This conludes that people with obesity are more prone to diabetes. 
+
 
 ## Actions/Corrective measures:
 ### Government health organizations:
