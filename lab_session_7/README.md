@@ -23,7 +23,7 @@ Data for 252 companies
 ## Critique on Lab-3
 In the above chart, I have picked up one of the web companies (YAHOO) that had a huge data breach and then analysed its stock price over those years.
 
-![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/lab_session_7/security_breaches.png)
+![Alt text](Dashboards_visualization/lab_session_7/security_breaches.png)
 
 Disadvantages -
 - Hides the ups and downs in the stock price that might have happened at the moment of data breach.
