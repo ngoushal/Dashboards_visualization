@@ -39,36 +39,36 @@ This data also had a few irrelevant columns like low confidence interval, high c
 The data was clean and readable for Tableau and hence, there was not much data wrangling required for this case.
 
 ### Data sources:
-Various sources for visualization
+- Various sources for visualization
 http://www.makeovermonday.co.uk/data/ 
 The website from where I found various topics for data visualization and selected the topic of adult Obesity in The United States
 
-Adult Obesity in US
+- Adult Obesity in US
 https://stateofobesity.org/adult-obesity/
 This is the link for obtaining the original data for the visualization. This visualization shows the values for the years 2009-2016 but the data source has values for the years 2011-2015.
 
-Diabetes in US
+- Diabetes in US
 https://stateofobesity.org/diabetes/
 This is the link that provides data for the number of diabetic people in United States by states for the years 2011-2015
 
 
 ### Visualization:
 
-### -Claim:
+### - Claim:
 Obesity increases the risk of diabetes
 
-### -Qualifier:
+### - Qualifier:
 Obesity in the United States of America
 
-### -Warrant:
+### - Warrant:
 Obesity increases the blood sugar level leading to higher risk of diabetes
 
-### -Backing:
+### - Backing:
 These links provide information on the fact that obesity increases the blood sugar levels.
 https://www.sciencedaily.com/releases/2009/06/090621143236.htm
 http://www.obesityaction.org/educational-resources/brochures-and-guides/understanding-excess-weight-and-its-role-in-type-2-diabetes-brohure
 
-### -Reservations:
+### - Reservations:
 The claim is formed only on the basis of obesity rate in US. If we consider the global data, it might show a different picture. 
 
 ## Intermediate versions:
@@ -78,26 +78,26 @@ The claim is formed only on the basis of obesity rate in US. If we consider the 
 
 ## Actions/Corrective measures:
 ### Government health organizations:
--Government should focus on supporting healthy eating and active living.
--The government should motivate people to help improve the dietary quality
--The government should grant colleges and universities to work with cooperative extension and outreach services in states that have a higher obesity rate.
--The government should try to come up with schemes that can make healthier foods more accessible and affordable to everyone.
+- Government should focus on supporting healthy eating and active living.
+- The government should motivate people to help improve the dietary quality
+- The government should grant colleges and universities to work with cooperative extension and outreach services in states that have a higher obesity rate.
+- The government should try to come up with schemes that can make healthier foods more accessible and affordable to everyone.
 
 ### Healthcare professionals:
--Doctors can have a string influence on the health choice of individuals.
--They can be the role models for healthy lifestyle.
--They can bring their knowledge and standing to advocate for healthy changes that reach people well beyond the walls of the clinic.
--They should create and promote prevention programs that can be instituted plan wide; and use their status in the community to support and sponsor wide-ranging prevention efforts, such as healthy meals in school, jogging and walking events, and the education of policymakers.
+- Doctors can have a string influence on the health choice of individuals.
+- They can be the role models for healthy lifestyle.
+- They can bring their knowledge and standing to advocate for healthy changes that reach people well beyond the walls of the clinic.
+- They should create and promote prevention programs that can be instituted plan wide; and use their status in the community to support and sponsor wide-ranging prevention efforts, such as healthy meals in school, jogging and walking events, and the education of policymakers.
 
 ### General public:
--People should become more cautious towards what type of food they are consuming.
--They should try to improve their eating habits and increase physical activity.
--After the age of 35, they should find ways to be physically more active either by having a regular exercise schedule or figuring out alternative means to exercise.
+- People should become more cautious towards what type of food they are consuming.
+- They should try to improve their eating habits and increase physical activity.
+- After the age of 35, they should find ways to be physically more active either by having a regular exercise schedule or figuring out alternative means to exercise.
 
 ## Road map with future enhancements:
--Over the years, the regions with maximum obesity are the same which shows that the government has not been taking any measures to reduce the numbers and to spread awareness  
--In the future, I can think of a campaign or a plan that can be organized in those regions to make people aware of the problem
--The rate of increasing obesity over the years can be related to the social activity of the people over the internet. During the 1990’s the obesity rate was much lower and with more people moving towards socialization over the internet, the physical activity and the body movement has reduced leading to higher rate of obesity
+- Over the years, the regions with maximum obesity are the same which shows that the government has not been taking any measures to reduce the numbers and to spread awareness  
+- In the future, I can think of a campaign or a plan that can be organized in those regions to make people aware of the problem
+- The rate of increasing obesity over the years can be related to the social activity of the people over the internet. During the 1990’s the obesity rate was much lower and with more people moving towards socialization over the internet, the physical activity and the body movement has reduced leading to higher rate of obesity
 
 
 ## References : 
