@@ -8,11 +8,13 @@ In the above chart, I have picked up one of the web companies (YAHOO) that had a
 
 Disadvantages -
 
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/lab_session_7/security_breaches.png)
+
 1)Hides the ups and downs in the stock price that might have happened at the moment of data breach.
 2)It does not reflect how much was it affected and how long did it take to recover.
 3)If we analyse the data on a monthly basis, we would get a clear picture of the impact on stock prices.
 
 Tableau link - https://public.tableau.com/profile/neha.goushal#!/vizhome/Final_251/FinalDB?publish=yes
 
-
+### Scope of improvement-
 
