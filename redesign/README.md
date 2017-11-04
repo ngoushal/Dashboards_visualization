@@ -15,6 +15,9 @@ Government health organiszations, healthcare professionals, and general public
 To redesign and develop a claim for the existing data visualization on adult obesity in the United States.
 
 ## Critique on the original Visualization:
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Original1.png)
+
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Original2.png)
 
 - Firstly, the map just shows the rate of obesity in various states and does not tell what can be done to prevent it.
 - Secondly, It also shows the trend over the years in each state but there is no identified pattern in any of the states.
@@ -72,6 +75,20 @@ http://www.obesityaction.org/educational-resources/brochures-and-guides/understa
 The claim is formed only on the basis of obesity rate in US. If we consider the global data, it might show a different picture. 
 
 ## Intermediate versions:
+### - Version1
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version1.png)
+
+### - Version2
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version2.png)
+
+### - Version3
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version3.png)
+
+### - Version4
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version4.png)
+
+### - Version5
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Version5.png)
 
 ## Final visualization:
 ![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/redesign/Finalversion.png)
