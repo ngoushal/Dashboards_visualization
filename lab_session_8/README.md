@@ -11,3 +11,6 @@ The objective of this lab is to redesign the representation developed in lab-5 a
 ## Data Source -
 https://www.scu.edu/admission/undergraduate/choosing-scu/graduate-outcomes/
 
+## Critique on the visualization -
+
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/lab_session_8/lab-5.png)
