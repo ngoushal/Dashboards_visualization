@@ -11,8 +11,6 @@ Air pollution is perceived as a modern-day curse: a by-product of increasing urb
 ## Objective:
 The objective of this project is to create a data visualization that purposefully distorts the data or deceives the reader. The purpose of this project is for us to experience and realize the ethical implications of design decisions during the development of data visualizations.
 
-## Scope of Improvement:
-
 ## Development Process:
 A ‘death’ from air pollution is defined as someone who dies prematurely (could be in the range of months or years) than would be expected in the absence of air pollution. In many cases, air pollution exacerbates pre-existing cardiorespiratory illnesses—individuals suffering from asthma, for example, are particularly vulnerable. Researchers link pollution concentrations to health risks using empirical exposure-response relationships and their relation to mortality rates.
 
