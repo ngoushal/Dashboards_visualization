@@ -44,8 +44,11 @@ This has obvious implications for countries with a growing population. If the ra
 
 ## References:
 https://ourworldindata.org
+
 https://www.stateofglobalair.org/data
+
 http://www.healthdata.org/results/data-visualizations
+
 https://ourworldindata.org/grapher/absolute-number-of-deaths-from-ambient-particulate-air-pollution
 
 
