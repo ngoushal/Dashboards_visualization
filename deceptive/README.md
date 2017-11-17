@@ -1,5 +1,4 @@
 # Deaths caused by air pollution
-*****************************************************************************************************************************
 
 ## Introduction:
 Air pollution can be defined as the emission of harmful substances to the atmosphere. This visualization project presents a global-level overview of air pollution: trends from history to the present day, the health and mortality burden and risk from air pollution. Air pollution is of two types: indoor (e.g. household) contexts and outdoor environments. This dataset focuses on outdoor pollution. 
