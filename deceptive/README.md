@@ -65,6 +65,7 @@ Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Dece
 
 ### Claim:
 **"Death rate is decreasing over the years"**
+
 Another way of improving the chart and showing an opposite opinion is by using a metric that is calculated from the absolute number of deaths.
 
 Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Deceptive_0/Dashboard4?publish=yes
@@ -83,10 +84,10 @@ For many countries, the death rate has declined by more than 50 percent. This re
 Death Rate is the total number of deaths in a specified geographic area (country, state, county, etc.) divided by the total population for the same geographic area for a specified time period, usually a calendar year and then multiplied by 100,000. 
 
 Death rate has four components:
-1. A specified measurement period.
-2. The numerator, the number of deaths that occurred in a specified geographic area during a given period of time
-3. The denominator, the total number of people in the population at risk in the same geographic area for the same period.
-4. A constant. The result of the fraction is usually multiplied by some factor of 10 (100,000), so that the rate may be expressed as a whole number. 
+- A specified measurement period.
+- The numerator, the number of deaths that occurred in a specified geographic area during a given period of time
+- The denominator, the total number of people in the population at risk in the same geographic area for the same period.
+- A constant. The result of the fraction is usually multiplied by some factor of 10 (100,000), so that the rate may be expressed as a whole number. 
 
 **Calculation:**
 
