@@ -38,28 +38,38 @@ If the data for indoor air pollution and other types of pollution is also consid
 
 Absolute number of deaths is the number of deaths that occurred in a specified geographic area during a given period of time. The below visualization shows that the absolute number of deaths is increasing over the years for the countries globally. I have plotted the graph with average number of deaths on the Y-axis and year on the X-axis. As you can see, the number was 18,548 in 1990 and has increased over the years and reached 21,098 in 2010. This is plotted by taking all the countries for the average.
 
+Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Deceptive_0/Dashboard1?publish=yes
+
+![Alt text]()
+
 ### Deceptive visualization:
 
 **Intermediate versions:**
 
 The visualisation below shows the absolute number of deaths attributed to outdoor air pollution by country from 1990-2016. At the annual level, the pollution related deaths are dominated by China and India – each with between 1.1-1.2 million deaths in 2016. In the period since 1990, China’s increase in pollution related deaths appears to be slowing with only a small increase since 2010. In contrast, India’s mortality rate from outdoor air pollution continues to increase.
 
-These are the two anomalies in the dataset (India and China). Their huge population is affecting the overall number in the calculation. If these two countries are not considered, the graph shows a completely different trend of the number of deaths.
+These are the two anomalies(India and China) in the dataset. Their huge population is affecting the overall number in the calculation. If these two countries are not considered, the graph shows a completely different trend of the number of deaths.
+
+Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Deceptive_0/Dashboard2?publish=yes
+
+![Alt text]()
 
 ### Final version:
 **"Absolute number of deaths remain constant over the years"**
 
 Since the two countries, India and China have an unexpected behavior, I tried plotting a graph without including these two in the calculation for average. The below visualization shows the revised version of previous graph by excluding India and China. As a result, I realized that there is a huge difference in the values. As you can see, the value for the year 1990 drops down from 18,548 to 9,458.5 and the value for the year 2010 drops down from 21,098 to 9,952.3. This is a huge difference. Also, you can see that the graph line does not show any increasing trend over the years. Rather, the number reamins almost constant for other countries over the years. This proves that the first visulaization was deceptive and makes the audience believe that the number of deaths are increasing over the years whereas actually its not.
 
+Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Deceptive_0/Dashboard3?publish=yes
+
+![Alt text]()
+
 ### Claim:
 **"Death rate is decreasing over the years"**
 Another way of improving the chart and showing an opposite opinion is by using a metric that is calculated from the absolute number of deaths.
 
+Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Deceptive_0/Dashboard4?publish=yes
 
-
-
-
-
+![Alt text]()
 
 You might be wondering that if the death rate across many countries is falling, why are the absolute number of deaths increasing? The absolute number of deaths is a function of three variable: the death rate, the population size, and the age demographic of the populace. If two countries have the same death rate, the country with the larger population, or older population will have the largest absolute number of deaths.
 
