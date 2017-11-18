@@ -25,6 +25,7 @@ A ‘death’ from air pollution is defined as someone who dies prematurely (cou
 ### Deceptive visualization:
 
 **Intermediate versions:**
+
 The visualisation below shows the absolute number of deaths attributed to outdoor air pollution by country from 1990-2016. At the annual level, the pollution related deaths are dominated by China and India – each with between 1.1-1.2 million deaths in 2016. In the period since 1990, China’s increase in pollution related deaths appears to be slowing with only a small increase since 2010. In contrast, India’s mortality rate from outdoor air pollution continues to increase.
 
 These are the two anomalies in the dataset (India and China). Their huge population is affecting the overall number in the calculation. If these two countries are not considered, the graph shows a completely different trend of the number of deaths.
@@ -35,6 +36,7 @@ These are the two anomalies in the dataset (India and China). Their huge populat
 
 ### Claim:
 **Death rate is decreasing over the years**
+
 If the death rate across many countries is falling, why are the absolute number of deaths increasing? The absolute number of deaths is a function of three variable: the death rate, the population size, and the age demographic of the populace. If two countries have the same death rate, the country with the larger population, or older population will have the largest absolute number of deaths.
 
 Hence, measuring the absolute number of deaths from air pollution is not a good metric for comparison among countries because it presents a number of drawbacks. The first is that the absolute number of deaths as a measure of air pollution does not take into account the population size or demographic. We might logically expect the number of deaths to be higher in countries with larger populations, and to increase in line with population growth. Similarly, we might expect the number of deaths to be higher in countries with an older population demographic.
@@ -52,7 +54,8 @@ Death rate has four components:
 3. The denominator, the total number of people in the population at risk in the same geographic area for the same period.
 4. A constant. The result of the fraction is usually multiplied by some factor of 10 (100,000), so that the rate may be expressed as a whole number. 
 
-*Calculation:*
+**Calculation:**
+
 Death Rate = (Total Resident Deaths/Total population)*100,000
 
 ### Data Sources:
@@ -62,11 +65,6 @@ https://ourworldindata.org/air-pollution/
 If we look only at the number of absolute deaths, we are under the impression that the numbers for countries are increasing over the years. It is actually the anomalies or the wrong metrics that gives us this conception. The truth is that death rate is the comparable metric as it takes other factors into account and gives us the true picture of the actual trend.
 
 Death rates are reported as age-standardized figures to allow for a fair cross-comparison of mortality and morbidity risk between countries and through time. Age-standardization normalises death rates to a set population structure (population, size and age) to cancel out variation which would occur between countries based on population demographics. If rates were not age-standardized, a country with a larger or older population would report higher death rates than a smaller or younger country, even if levels of pollution exposure were the same.
-
-## explaining the number of deaths from air pollution
-If the death rate across many countries is falling, why are the absolute number of deaths increasing? The absolute number of deaths is a function of three variable: the death rate, the population size, and the age demographic of the populace. If two countries have the same death rate, the country with the larger population, or older population will have the largest absolute number of deaths.
-
-This has obvious implications for countries with a growing population. If the rate of population growth outpaces the reduction in death rates, then the absolute number of deaths will continue to grow
 
 ## Road map with future enhancements:
 - We can analyse the trend for the period before 1990 and then compare the current data to see the overall change.
