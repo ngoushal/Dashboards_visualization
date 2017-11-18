@@ -16,11 +16,27 @@ The objective of this project is to create a data visualization that purposefull
 
 ## Development Process:
 
-### How can we determine if the death is due to air pollution?
+**Claim:**
+
+Absolute number of deaths is increasing over the years
+
+**Warrant:**
+
 A ‘death’ from air pollution is defined as someone who dies prematurely (could be in the range of months or years) than would be expected in the absence of air pollution. In many cases, air pollution exacerbates pre-existing cardiorespiratory illnesses, for example, individuals suffering from asthma are particularly vulnerable. Researchers link pollution concentrations to health risks using empirical exposure-response relationships and their relation to mortality rates.
 
-### Original claim:
-**Absolute number of deaths is increasing over the years**
+**Qualification:**
+
+- This data is only for the period 1990 - 2010
+- This dataset focuses on the number of deaths caused by outdoor air pollution.
+
+**Reservation:**
+
+If the data for indoor air pollution and other types of pollution is also considered, the claim might alter.
+
+## First Version:
+**"Absolute number of deaths is increasing over the years"**
+
+Absolute number of deaths is the number of deaths that occurred in a specified geographic area during a given period of time. The below visualization shows that the absolute number of deaths is increasing over the years for the countries globally. I have plotted the graph with average number of deaths on the Y-axis and year on the X-axis. As you can see, the number was 18,548 in 1990 and has increased over the years and reached 21,098 in 2010. This is plotted by taking all the countries for the average.
 
 ### Deceptive visualization:
 
@@ -31,13 +47,21 @@ The visualisation below shows the absolute number of deaths attributed to outdoo
 These are the two anomalies in the dataset (India and China). Their huge population is affecting the overall number in the calculation. If these two countries are not considered, the graph shows a completely different trend of the number of deaths.
 
 ### Final version:
-**Absolute number of deaths remain constant over the years**
+**"Absolute number of deaths remain constant over the years"**
 
+Since the two countries, India and China have an unexpected behavior, I tried plotting a graph without including these two in the calculation for average. The below visualization shows the revised version of previous graph by excluding India and China. As a result, I realized that there is a huge difference in the values. As you can see, the value for the year 1990 drops down from 18,548 to 9,458.5 and the value for the year 2010 drops down from 21,098 to 9,952.3. This is a huge difference. Also, you can see that the graph line does not show any increasing trend over the years. Rather, the number reamins almost constant for other countries over the years. This proves that the first visulaization was deceptive and makes the audience believe that the number of deaths are increasing over the years whereas actually its not.
 
 ### Claim:
-**Death rate is decreasing over the years**
+**"Death rate is decreasing over the years"**
+Another way of improving the chart and showing an opposite opinion is by using a metric that is calculated from the absolute number of deaths.
 
-If the death rate across many countries is falling, why are the absolute number of deaths increasing? The absolute number of deaths is a function of three variable: the death rate, the population size, and the age demographic of the populace. If two countries have the same death rate, the country with the larger population, or older population will have the largest absolute number of deaths.
+
+
+
+
+
+
+You might be wondering that if the death rate across many countries is falling, why are the absolute number of deaths increasing? The absolute number of deaths is a function of three variable: the death rate, the population size, and the age demographic of the populace. If two countries have the same death rate, the country with the larger population, or older population will have the largest absolute number of deaths.
 
 Hence, measuring the absolute number of deaths from air pollution is not a good metric for comparison among countries because it presents a number of drawbacks. The first is that the absolute number of deaths as a measure of air pollution does not take into account the population size or demographic. We might logically expect the number of deaths to be higher in countries with larger populations, and to increase in line with population growth. Similarly, we might expect the number of deaths to be higher in countries with an older population demographic.
 
@@ -46,7 +70,7 @@ Another drawback to the absolute number of deaths is that it provides no indicat
 For many countries, the death rate has declined by more than 50 percent. This reduction trend is true, even in countries with a growing absolute number of deaths, for example-China and India. The increase in absolute number of deaths from air pollution is therefore a larger reflection of the changing population structures—a growing and aging population rather than an increased individual risk of mortality.
 
 ### How is death rate calculated?:
-Death Rate is the total number of deaths to residents in a specified geographic area (country, state, county, etc.) divided by the total population for the same geographic area for a specified time period, usually a calendar year and then multiplied by 100,000. 
+Death Rate is the total number of deaths in a specified geographic area (country, state, county, etc.) divided by the total population for the same geographic area for a specified time period, usually a calendar year and then multiplied by 100,000. 
 
 Death rate has four components:
 1. A specified measurement period.
@@ -56,7 +80,7 @@ Death rate has four components:
 
 **Calculation:**
 
-Death Rate = (Total Resident Deaths/Total population)*100,000
+Death Rate = (Absolute number of deaths/Total population)*100,000
 
 ### Data Sources:
 https://ourworldindata.org/air-pollution/
