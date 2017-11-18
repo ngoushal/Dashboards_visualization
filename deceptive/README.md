@@ -40,7 +40,7 @@ Absolute number of deaths is the number of deaths that occurred in a specified g
 
 Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Deceptive_0/Dashboard1?publish=yes
 
-![Alt text]()
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/deceptive/ver-1.png)
 
 ### Deceptive visualization:
 
@@ -52,7 +52,7 @@ These are the two anomalies(India and China) in the dataset. Their huge populati
 
 Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Deceptive_0/Dashboard2?publish=yes
 
-![Alt text]()
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/deceptive/ver-2.png)
 
 ### Final version:
 **"Absolute number of deaths remain constant over the years"**
@@ -61,7 +61,7 @@ Since the two countries, India and China have an unexpected behavior, I tried pl
 
 Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Deceptive_0/Dashboard3?publish=yes
 
-![Alt text]()
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/deceptive/ver-3.png)
 
 ### Claim:
 **"Death rate is decreasing over the years"**
@@ -69,7 +69,7 @@ Another way of improving the chart and showing an opposite opinion is by using a
 
 Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Deceptive_0/Dashboard4?publish=yes
 
-![Alt text]()
+![Alt text](https://github.com/ngoushal/Dashboards_visualization/blob/master/deceptive/ver-4.png)
 
 You might be wondering that if the death rate across many countries is falling, why are the absolute number of deaths increasing? The absolute number of deaths is a function of three variable: the death rate, the population size, and the age demographic of the populace. If two countries have the same death rate, the country with the larger population, or older population will have the largest absolute number of deaths.
 
