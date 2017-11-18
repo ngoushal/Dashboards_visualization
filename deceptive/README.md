@@ -36,7 +36,7 @@ If the data for indoor air pollution and other types of pollution is also consid
 ## First Version:
 **"Absolute number of deaths is increasing over the years"**
 
-Absolute number of deaths is the number of deaths that occurred in a specified geographic area during a given period of time. The below visualization shows that the absolute number of deaths is increasing over the years for the countries globally. I have plotted the graph with average number of deaths on the Y-axis and year on the X-axis. As you can see, the number was 18,548 in 1990 and has increased over the years and reached 21,098 in 2010. This is plotted by taking all the countries for the average.
+Absolute number of deaths is the actual number of deaths that occurred in a specified geographic area during a given period of time. The below visualization shows that the absolute number of deaths is increasing over the years for the countries globally. I have plotted the graph with average number of deaths on the Y-axis and year on the X-axis. As you can see, the number was 18,548 in 1990 and has increased over the years and reached 21,098 in 2010. This is plotted by taking all the countries for the average.
 
 Link to Tableau : https://public.tableau.com/profile/neha.goushal#!/vizhome/Deceptive_0/Dashboard1?publish=yes
 
